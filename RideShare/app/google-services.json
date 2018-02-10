@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "311289144000",
+    "firebase_url": "https://rideshare-f1d94.firebaseio.com",
+    "project_id": "rideshare-f1d94",
+    "storage_bucket": "rideshare-f1d94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311289144000:android:75c8bd11d7783821",
+        "android_client_info": {
+          "package_name": "com.example.ramkumar.rideshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311289144000-snhsbkve6vfg6t72jf3tq50gl3bu00f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClUOFYTDruSFOCA2x7RhrDAxhg63nbZhs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
